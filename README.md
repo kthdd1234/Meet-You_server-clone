@@ -1,1 +1,1 @@
-# :couple_with_heart: 소개팅 앱 Meet-you
+# :two_hearts: 소개팅 앱 Meet-you
