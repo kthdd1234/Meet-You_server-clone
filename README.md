@@ -1,7 +1,7 @@
 # :two_hearts: 소개팅 앱 Meet-you
 
 <p align="center" >
-  <img src="(https://user-images.githubusercontent.com/58875822/105334299-0e138f00-5c1a-11eb-95b3-3517caae8f48.png" width="500px"/>
+  <img src="https://user-images.githubusercontent.com/58875822/105334299-0e138f00-5c1a-11eb-95b3-3517caae8f48.png" width="500px"/>
 </p>
 
 
